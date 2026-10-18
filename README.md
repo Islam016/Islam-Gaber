@@ -85,7 +85,8 @@ Full Stack Developer with **4+ years of experience** building web applications w
 | [laravel-saudi-leave-balance](https://github.com/Islam016/laravel-saudi-leave-balance) | Leave balance engine following Saudi labor rules: 21/30-day entitlement, per-contract-year ledger, carry-over, grace period | PHP, Laravel package, PHPUnit |
 | [laravel-erp-permission-matrix](https://github.com/Islam016/laravel-erp-permission-matrix) | Module registry, role × permission matrix UI, and account suspension that ends active sessions | Laravel, Spatie Permission, Blade |
 | [leave-requests-api](https://github.com/Islam016/leave-requests-api) | REST API for leave requests with balance checks, manager-only approvals and queued notifications | Laravel, Sanctum, Policies |
-| [Chrome_Dino_Game](https://github.com/Islam016/Chrome_Dino_Game) | The Chrome dinosaur game in vanilla JS with a requestAnimationFrame game loop · [play it](https://islam016.github.io/Chrome_Dino_Game/) | HTML, CSS, JavaScript |
+| [laravel-reverb-chat](https://github.com/Islam016/laravel-reverb-chat) | Real-time chat: direct and group conversations, attachments, read receipts and group admin roles | Laravel, Reverb WebSockets, Echo |
+| [Chrome_Dino_Game](https://github.com/Islam016/Chrome_Dino_Game) | Canvas remake of the Chrome T-Rex game: pixel-art sprites, pixel-perfect collisions, night mode · [play it](https://islam016.github.io/Chrome_Dino_Game/) | JavaScript, Canvas |
 
 ### Professional
 
