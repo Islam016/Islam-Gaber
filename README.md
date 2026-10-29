@@ -82,6 +82,7 @@ Full Stack Developer with **4+ years of experience** building web applications w
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
+| [arabic-search](https://github.com/Islam016/arabic-search) | Arabic-aware search: finds "أحمد" when users type "احمد". Normalizes hamza, ة/ه, ى/ي, harakat and Arabic-Indic digits in PHP and SQL, with indexed search columns | PHP, Laravel package, MySQL, PostgreSQL, SQLite |
 | [laravel-saudi-leave-balance](https://github.com/Islam016/laravel-saudi-leave-balance) | Leave balance engine following Saudi labor rules: 21/30-day entitlement, per-contract-year ledger, carry-over, grace period | PHP, Laravel package, PHPUnit |
 | [laravel-erp-permission-matrix](https://github.com/Islam016/laravel-erp-permission-matrix) | Module registry, role × permission matrix UI, and account suspension that ends active sessions | Laravel, Spatie Permission, Blade |
 | [leave-requests-api](https://github.com/Islam016/leave-requests-api) | REST API for leave requests with balance checks, manager-only approvals and queued notifications | Laravel, Sanctum, Policies |
