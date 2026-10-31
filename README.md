@@ -82,6 +82,7 @@ Full Stack Developer with **4+ years of experience** building web applications w
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
+| [laravel-safe-checkout](https://github.com/Islam016/laravel-safe-checkout) | Moyasar & Tap checkout that never charges twice: idempotent payments, verified webhooks, amounts confirmed with the gateway, a status state machine | PHP, Laravel package, MySQL, PostgreSQL |
 | [arabic-search](https://github.com/Islam016/arabic-search) | Arabic-aware search: finds "أحمد" when users type "احمد". Normalizes hamza, ة/ه, ى/ي, harakat and Arabic-Indic digits in PHP and SQL, with indexed search columns | PHP, Laravel package, MySQL, PostgreSQL, SQLite |
 | [laravel-saudi-leave-balance](https://github.com/Islam016/laravel-saudi-leave-balance) | Leave balance engine following Saudi labor rules: 21/30-day entitlement, per-contract-year ledger, carry-over, grace period | PHP, Laravel package, PHPUnit |
 | [laravel-erp-permission-matrix](https://github.com/Islam016/laravel-erp-permission-matrix) | Module registry, role × permission matrix UI, and account suspension that ends active sessions | Laravel, Spatie Permission, Blade |
